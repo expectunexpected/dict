@@ -1,2 +1,2 @@
-extern char cat[10];
+extern char *cat;
 extern int a;

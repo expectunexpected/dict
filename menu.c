@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include "global.h"
 
 void switch1(int a)
@@ -28,21 +29,21 @@ void switch1(int a)
 void switch2(void) {
     int b;
     printf("kategoria 1 - czasowniki\nkategoria 2 - rzeczowniki\nkategoria 3 - przymiotniki\n");
-    scanf("%d\n", &b);
+    scanf("%d", &b);
     switch( b ) {
         case 1:
         {
-            cat[10]="\verb.txt";
+            cat="verb.txt";
             break;
         }
         case 2:
         {
-            cat[10]="\noun.txt";
+            cat="noun.txt";
             break;
         }
         case 3:
         {
-            cat[10]="\adj.txt";
+            cat="adj.txt";
             break;
         }
         default:
@@ -51,5 +52,4 @@ void switch2(void) {
         break;
         }
     }
- return 0;
 }

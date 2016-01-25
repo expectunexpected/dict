@@ -1,4 +1,4 @@
 #ifndef GETWORD_H
 #define GETWORD_H
-void getword();
+int getword();
 #endif
