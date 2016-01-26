@@ -220,7 +220,7 @@ maszyna
 machine
 czasopismo
 magazine
-mê¿czyzna
+mÄ™Å¼czyzna
 man
 posilek
 meal
@@ -238,7 +238,7 @@ blad
 mistake
 model
 model
-miesi¹c
+miesiÄ…c
 month
 usta
 mouth
@@ -256,7 +256,7 @@ park
 park
 przyjecie
 party
-œciezka
+Å›ciezka
 path
 obraz
 picture
